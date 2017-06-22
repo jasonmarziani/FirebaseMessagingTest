@@ -2,7 +2,7 @@
 Test app demonstrating Firebase Messaging iOS crash.
 
 Steps to reproduce:
-Open project in Unity v5.6.1f1
+Open project in Unity v5.6.1f1. Open testscene.unity.
 In Build Settings, set as iOS, and select Player Settings.
 In Player Settings, set a bundle ID. 
 - Make sure you can build to device with this bundle ID.
